@@ -1,0 +1,7 @@
+{
+  "name": "calculoperimetro",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
